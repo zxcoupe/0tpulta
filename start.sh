@@ -6,8 +6,8 @@
 # ==============================================
 
 # Основные каталоги
-mkdir -p 0tpulta
-cd 0tpulta || exit
+#mkdir -p 0tpulta
+#cd 0tpulta || exit
 mkdir -p {src,include,bin,libs,platforms,tools,docs,assets}
 
 # Полный список платформ (все, что упоминались)
