@@ -1,0 +1,6 @@
+if(USE_DEVKITPRO)
+    add_executable(nds_arm7 arm7/main.c arm7/audio.c)
+    add_executable(nds_arm9 arm9/main.c arm9/video.c)
+    target_link_libraries(nds_arm7 nds)
+    target_link_libraries(nds_arm9 nds)
+endif()

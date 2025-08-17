@@ -1,0 +1,10 @@
+[Unit]
+Description=0tpulta PTT Radio Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/0tpulta --daemon
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

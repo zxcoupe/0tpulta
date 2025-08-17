@@ -1,0 +1,3 @@
+/home/user/0tpulta/build_rocknix/CMakeFiles/0tpulta.dir
+/home/user/0tpulta/build_rocknix/CMakeFiles/edit_cache.dir
+/home/user/0tpulta/build_rocknix/CMakeFiles/rebuild_cache.dir

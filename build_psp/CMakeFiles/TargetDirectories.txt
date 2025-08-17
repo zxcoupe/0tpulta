@@ -1,0 +1,3 @@
+/home/user/0tpulta/build_psp/CMakeFiles/0tpulta.dir
+/home/user/0tpulta/build_psp/CMakeFiles/edit_cache.dir
+/home/user/0tpulta/build_psp/CMakeFiles/rebuild_cache.dir

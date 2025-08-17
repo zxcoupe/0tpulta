@@ -1,0 +1,13 @@
+#cd ./tools/scripts/
+./tools/scripts/build_3do.sh
+./tools/scripts/build_dreamcast.sh
+./tools/scripts/build_jelos.sh
+./tools/scripts/build_ps1.sh
+./tools/scripts/build_rg353.sh
+./tools/scripts/build_rocknix.sh
+./tools/scripts/build_arc-d.sh
+./tools/scripts/build_ds.sh
+./tools/scripts/build_msdos.sh
+./tools/scripts/build_psp.sh
+./tools/scripts/build_rgb30.sh
+./tools/scripts/build_rocknix

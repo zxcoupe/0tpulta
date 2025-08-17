@@ -1,0 +1,3 @@
+/home/user/0tpulta/build_msdos/CMakeFiles/0tpulta.dir
+/home/user/0tpulta/build_msdos/CMakeFiles/edit_cache.dir
+/home/user/0tpulta/build_msdos/CMakeFiles/rebuild_cache.dir

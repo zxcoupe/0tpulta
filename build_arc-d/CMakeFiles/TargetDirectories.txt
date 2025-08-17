@@ -1,0 +1,3 @@
+/home/user/0tpulta/build_arc-d/CMakeFiles/0tpulta.dir
+/home/user/0tpulta/build_arc-d/CMakeFiles/edit_cache.dir
+/home/user/0tpulta/build_arc-d/CMakeFiles/rebuild_cache.dir

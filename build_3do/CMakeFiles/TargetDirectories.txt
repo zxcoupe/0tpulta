@@ -1,0 +1,3 @@
+/home/user/0tpulta/build_3do/CMakeFiles/0tpulta.dir
+/home/user/0tpulta/build_3do/CMakeFiles/edit_cache.dir
+/home/user/0tpulta/build_3do/CMakeFiles/rebuild_cache.dir
